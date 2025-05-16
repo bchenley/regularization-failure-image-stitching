@@ -1,32 +1,24 @@
-# Byte-compiled / optimized / DLL files
-__pycache__/
-*.py[cod]
-*.so
-
-# Virtual Environments
-.venv/
-env/
-venv/
-ENV/
-
-# Jupyter Notebook Checkpoints
-.ipynb_checkpoints/
-
-# Output folders
-outputs/logs/
-outputs/results/
-outputs/figures/
-outputs/models/
-
-# Data folders
+# Datasets
 data/raw/
 data/processed/
-data/matches/
+data/figures/
 
-# System files
+# Outputs
+outputs/logs/
+outputs/models/
+outputs/figures/
+
+# Notebooks
+notebooks/archive/
+
+# Checkpoints & cache
+.ipynb_checkpoints/
+__pycache__/
+*.pt
+*.pkl
+*.csv
+*.json
+*.npy
+
+# Hidden
 .DS_Store
-Thumbs.db
-
-# IDE/editor folders
-.vscode/
-.idea/
