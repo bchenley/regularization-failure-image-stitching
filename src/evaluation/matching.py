@@ -1,3 +1,5 @@
+# Author: Brandon Henley
+
 from scipy.spatial import cKDTree
 import numpy as np
 
