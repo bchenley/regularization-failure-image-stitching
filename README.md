@@ -4,7 +4,7 @@ This project investigates the unintended effects of regularization methods (L2, 
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 project/
@@ -26,7 +26,7 @@ project/
 
 ---
 
-## 🧭 Project Procedure: Effects of Regularization on Descriptor Stability in Homography Estimation
+## Project Procedure: Effects of Regularization on Descriptor Stability in Homography Estimation
 
 This notebook presents a complete experimental pipeline to study how different regularization strategies (L2, Dropout, Hybrid) affect CNN-based keypoint descriptors used in homography estimation and geometric alignment. The project is framed around the inverse problem posed by the DLT algorithm and evaluates both spatial precision and numerical conditioning.
 
@@ -112,7 +112,7 @@ This notebook presents a complete experimental pipeline to study how different r
 
 ---
 
-## 🛠 Usage
+## Usage
 
 ### Setup
 
@@ -129,7 +129,7 @@ python build_scaffold.py
 
 ---
 
-## 🎓 Author
+## Author
 
 Brandon Henley  
 CSCI E-25: Computer Vision, Harvard Extension School
