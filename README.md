@@ -118,7 +118,7 @@ This notebook presents a complete experimental pipeline to study how different r
 
 ```bash
 conda env create -f environment.yaml
-conda activate regenv
+conda activate regenv2
 python build_scaffold.py
 ```
 
